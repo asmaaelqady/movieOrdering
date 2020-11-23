@@ -1,0 +1,3 @@
+tenet,action,2020,7.3,45,0
+sherlock,adventure,2015,6.8,40,0
+inception,action,2017,7.5,45,0

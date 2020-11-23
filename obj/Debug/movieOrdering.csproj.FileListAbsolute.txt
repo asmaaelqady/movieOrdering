@@ -1,0 +1,7 @@
+C:\Users\ayash\OneDrive\Desktop\movieOrdering\bin\Debug\movieOrdering.exe.config
+C:\Users\ayash\OneDrive\Desktop\movieOrdering\bin\Debug\movieOrdering.exe
+C:\Users\ayash\OneDrive\Desktop\movieOrdering\bin\Debug\movieOrdering.pdb
+C:\Users\ayash\OneDrive\Desktop\movieOrdering\obj\Debug\movieOrdering.csprojAssemblyReference.cache
+C:\Users\ayash\OneDrive\Desktop\movieOrdering\obj\Debug\movieOrdering.csproj.CoreCompileInputs.cache
+C:\Users\ayash\OneDrive\Desktop\movieOrdering\obj\Debug\movieOrdering.exe
+C:\Users\ayash\OneDrive\Desktop\movieOrdering\obj\Debug\movieOrdering.pdb
